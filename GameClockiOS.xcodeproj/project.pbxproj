@@ -11,6 +11,7 @@
 		36880671299EDC750076EC06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36880670299EDC750076EC06 /* ContentView.swift */; };
 		36880673299EDC760076EC06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36880672299EDC760076EC06 /* Assets.xcassets */; };
 		36880676299EDC760076EC06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36880675299EDC760076EC06 /* Preview Assets.xcassets */; };
+		3688067D299F17080076EC06 /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3688067C299F17080076EC06 /* Timer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		36880670299EDC750076EC06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		36880672299EDC760076EC06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36880675299EDC760076EC06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3688067C299F17080076EC06 /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				3688066E299EDC750076EC06 /* GameClockiOSApp.swift */,
+				3688067C299F17080076EC06 /* Timer.swift */,
 				36880670299EDC750076EC06 /* ContentView.swift */,
 				36880672299EDC760076EC06 /* Assets.xcassets */,
 				36880674299EDC760076EC06 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3688067D299F17080076EC06 /* Timer.swift in Sources */,
 				36880671299EDC750076EC06 /* ContentView.swift in Sources */,
 				3688066F299EDC750076EC06 /* GameClockiOSApp.swift in Sources */,
 			);
